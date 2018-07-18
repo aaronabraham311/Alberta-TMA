@@ -75,7 +75,7 @@ html, body {
   margin-bottom: 1rem;
 }
 
-.fa-code {
+.fa-cogs {
   color: #e54d26;
 }
 
@@ -87,8 +87,8 @@ html, body {
   color: #2163af
 }
 
-.fa-code, .fa-bold, .fa-css3 {
-  font-size: 4em;
+.fa-cogs, .fa-bold, .fa-css3 {
+  font-size: 5em;
   margin: 1rem
 }
 
