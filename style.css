@@ -62,6 +62,11 @@ html, body {
   padding-bottom: 2rem;
 }
 
+.special-padding {
+  padding-bottom: 1rem;
+  padding-top: 0.5rem;
+}
+
 .welcome {
   width: 75%;
   margin: 0 auto;
@@ -75,19 +80,23 @@ html, body {
   margin-bottom: 1rem;
 }
 
+.fa-edit {
+  color: #1AE5D8;
+}
+
 .fa-cogs {
   color: #e54d26;
 }
 
-.fa-bold {
+.fa-lightbulb {
   color: #563d7c
 }
 
-.fa-css3 {
+.fa-clock {
   color: #2163af
 }
 
-.fa-cogs, .fa-bold, .fa-css3 {
+.fa-cogs, .fa-lightbulb, .fa-clock , .fa-edit{
   font-size: 5em;
   margin: 1rem
 }
