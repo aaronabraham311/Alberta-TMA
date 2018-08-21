@@ -21,7 +21,7 @@ html, body {
 
 .carousel-inner img {
   width: 100%;
-  height: 100%
+  height: 615px;
 }
 
 .carousel-caption {
@@ -78,6 +78,10 @@ html, body {
   width: 95%;
   margin-top: 0.3rem;
   margin-bottom: 1rem;
+}
+
+.img-margin {
+  margin: 90px 0;
 }
 
 .fa-edit {
